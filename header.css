@@ -1,0 +1,19 @@
+.page {
+  margin: 0;
+}
+
+.topheader {
+  display: flex;
+  justify-content: space-between;
+}
+
+header.page .shopmenu {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.page {
+  display: flex;
+  justify-content: space-between;
+}

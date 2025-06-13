@@ -1,0 +1,10 @@
+/* top nav bar */
+header.page-header nav {
+    display: flex;
+    
+    background-color: var(--fg);
+    color: white;
+}
+
+
+/* side nav bar */
